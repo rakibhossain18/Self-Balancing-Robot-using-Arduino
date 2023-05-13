@@ -1,4 +1,4 @@
 # Self-Balancing-Robot-using-Arduino
 
-![Semantic description of image](hdiagram.jpeg)
+![Semantic description of image](circuit hdiagram.jpeg)
 
