@@ -1,2 +1,4 @@
 # Self-Balancing-Robot-using-Arduino
-circuit hdiagram.jpeg
+
+![Semantic description of image](hdiagram.jpeg "Image Title")
+
